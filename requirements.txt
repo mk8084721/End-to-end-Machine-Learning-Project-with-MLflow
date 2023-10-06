@@ -1,0 +1,18 @@
+pandas
+ruamel-yaml
+pyqt5==5.12.3
+pyqtwebengine==5.12.1
+mlflow==2.2.2
+notebook
+numpy
+scikit-learn
+matplotlib
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+-e .
